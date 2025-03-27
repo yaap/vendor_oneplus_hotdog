@@ -211,9 +211,4 @@ PRODUCT_PACKAGES += \
     libarm_proxy_skel \
     libgf_ud_hal \
     libhvx_proxy_stub \
-    libmdmdetect_vendor \
-    libmdmimgload \
-    liboemnvbk_img_helper \
-    sensors.ssc \
-    ks \
-    mdm_helper
+    sensors.ssc
